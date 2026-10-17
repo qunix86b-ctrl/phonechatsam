@@ -2,7 +2,7 @@
 
 목소리로 내 휴대폰을 찾고, 연결한 사람의 휴대폰을 소리나 진동으로 부르는 Android 앱입니다.
 
-이 비공개 저장소는 APK 배포와 설치 안내를 제공합니다. 설치 파일은 **Releases**에서 내려받으세요.
+이 공개 저장소는 APK 배포와 설치 안내를 제공합니다. GitHub 로그인 없이 [APK를 바로 내려받을 수 있습니다](https://github.com/qunix86b-ctrl/phonechatsam/releases/download/v0.1.0/ponsam-v0.1.0.apk).
 
 ## 지원 환경
 
