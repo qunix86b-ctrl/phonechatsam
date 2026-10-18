@@ -2,7 +2,7 @@
 
 목소리로 내 휴대폰을 찾고, 연결한 사람의 휴대폰을 소리나 진동으로 부르는 Android 앱입니다.
 
-이 공개 저장소는 APK 배포와 설치 안내를 제공합니다. GitHub 로그인 없이 [최신 v0.2.1 APK를 바로 내려받을 수 있습니다](https://github.com/qunix86b-ctrl/phonechatsam/releases/download/v0.2.1/ponsam-v0.2.1.apk).
+이 공개 저장소는 APK 배포와 설치 안내를 제공합니다. GitHub 로그인 없이 [최신 v0.2.2 APK를 바로 내려받을 수 있습니다](https://github.com/qunix86b-ctrl/phonechatsam/releases/download/v0.2.2/ponsam-v0.2.2.apk).
 
 ## 지원 환경
 
@@ -12,7 +12,7 @@
 
 ## 설치
 
-1. Releases에서 `ponsam-v0.2.1.apk`를 휴대폰으로 내려받습니다.
+1. Releases에서 `ponsam-v0.2.2.apk`를 휴대폰으로 내려받습니다.
 2. 파일을 열고, 필요하면 다운로드에 사용한 앱의 ‘알 수 없는 앱 설치’를 허용합니다.
 3. 앱을 설치하거나 기존 버전을 업데이트합니다.
 
@@ -20,7 +20,14 @@
 
 v0.1.0과 같은 서명으로 만들어 기존 앱 위에 업데이트할 수 있습니다. 연결과 설정을 유지하려면 기존 앱을 삭제하지 말고 업데이트하세요.
 
-## v0.2.1 업데이트
+## v0.2.2 업데이트
+
+- 제공된 `hwaii.mp3`를 **Hwaii (추가한 음악)** 벨소리로 추가했습니다.
+- SMB·8비트 모험 등 기존 6종과 함께 총 **7종** 중 선택할 수 있습니다.
+- **설정 → 벨소리와 기본 음량 → Hwaii (추가한 음악)**에서 선택하고 **5초 미리 듣기**로 확인하세요.
+- 기존 앱 위에 업데이트할 수 있으며, 기존 벨소리 선택과 연결 정보는 유지됩니다.
+
+## 이전 v0.2.1 업데이트
 
 - 사용자가 제공한 `SMB.mp3`를 **SMB (추가한 음악)** 벨소리로 추가
 - 직접 만든 **8비트 모험** 벨소리 추가
@@ -71,5 +78,5 @@ v0.1.0과 같은 서명으로 만들어 기존 앱 위에 업데이트할 수 �
 Windows PowerShell:
 
 ```powershell
-Get-FileHash .\ponsam-v0.2.1.apk -Algorithm SHA256
+Get-FileHash .\ponsam-v0.2.2.apk -Algorithm SHA256
 ```
